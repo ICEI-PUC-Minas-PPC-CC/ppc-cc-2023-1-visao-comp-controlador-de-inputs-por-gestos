@@ -1,11 +1,26 @@
 # Instruções de utilização
 
-## Instalação do Site
+## Como rodar o projeto
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+- Instalar o python 3.10
+- Executar os seguintes comandos no PowerShell:
+```
+py -m pip install opencv-python
+```
+```
+py -m pip install mediapipe
+```
+```
+py -m pip install pyautogui
+```
+```
+py -m pip install PyDirectInput
+```
+- Abrir a pasta do projeto no PowerShell e digitar o comando:
+```
+py Controlador.py
+```
 
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+## Alunos:
+- Pedro Rodrigues Neto
+- Richard de Carvalho Borges
