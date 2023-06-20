@@ -360,7 +360,7 @@ camera_video.set(3,1280)
 camera_video.set(4,960)
 
 # Create named window for resizing purposes.
-cv2.namedWindow('Subway Surfers with Pose Detection', cv2.WINDOW_NORMAL)
+cv2.namedWindow('Pose detection', cv2.WINDOW_NORMAL)
  
 # Initialize a variable to store the time of the previous frame.
 time1 = 0
